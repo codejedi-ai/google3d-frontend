@@ -1,3 +1,3 @@
-# maven-project
+run node server.js
 
-Simple Maven Project
+enter the 
